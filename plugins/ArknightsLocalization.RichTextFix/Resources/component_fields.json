@@ -1,0 +1,594 @@
+{
+  "Torappu.AVG.AVGPlaybackTextView": {
+    "_content": "story",
+    "_name": "story-name"
+  },
+  "Torappu.AVG.AVGReaderModeDecisionItemView": {
+    "_decisionText": "story"
+  },
+  "Torappu.AVG.AVGReaderModeTextView": {
+    "_content": "story",
+    "_name": "story-name"
+  },
+  "Torappu.AVG.AVGStickerTextView": {
+    "_message": "story"
+  },
+  "Torappu.AVG.AVGTimerView": {
+    "_message": "story"
+  },
+  "Torappu.AVG.DialogPanel": {
+    "_message": "story",
+    "_name": "story-name"
+  },
+  "Torappu.AVG.SkipBriefPanel": {
+    "_content": "story"
+  },
+  "Torappu.AVG.SubtitlePanel": {
+    "_message": "story"
+  },
+  "Torappu.Activity.AutoChess.ActAutoChessHandbookBondDetailView": {
+    "_textName": "bond"
+  },
+  "Torappu.Battle.UI.UICharacterInfoStatusSubPanel": {
+    "_nameCnLabel": "operator"
+  },
+  "Torappu.Battle.UI.UICharacterInfoStatusSubPanelInAutochess": {
+    "_basicCampText": "bond",
+    "_extraCampTexts": "bond"
+  },
+  "Torappu.Battle.UI.UICharacterInfoTabGroupSubPanel": {
+    "_subProfessionText": "subprofession"
+  },
+  "Torappu.Building.BP.BRoom": {
+    "_textName": "room"
+  },
+  "Torappu.Building.UI.AbstractBuildingUIRoomTitle`2": {
+    "_textName": "room"
+  },
+  "Torappu.Building.UI.BuildingBuffDescView": {
+    "_textDesc": "building-description",
+    "_textName": "building-skill"
+  },
+  "Torappu.Building.UI.BuildingNameCardView": {
+    "_textUid": "identity",
+    "_textVisitorName": "identity"
+  },
+  "Torappu.Building.UI.Meeting.MeetingCharacterView": {
+    "_name": "operator-character"
+  },
+  "Torappu.Building.UI.StationSelect.BuildingStationSelectCharCard": {
+    "_textName": "operator-character"
+  },
+  "Torappu.Building.UI.StationSelect.BuildingStationSelectCharInfoView": {
+    "_textName": "operator-character"
+  },
+  "Torappu.Gacha.PanelCharacterInfo": {
+    "_nameCn": "operator-character"
+  },
+  "Torappu.UI.AutoChess.AutoChessBandChoosePlayerItemView": {
+    "_textAlias": "identity",
+    "_textNickNum": "identity",
+    "_textNickname": "identity"
+  },
+  "Torappu.UI.AutoChess.AutoChessBandChooseSelectedDetailDialog": {
+    "_textNickName": "identity"
+  },
+  "Torappu.UI.AutoChess.AutoChessPlayerInfoCardView": {
+    "_nameText": "identity",
+    "_noteNameText": "identity"
+  },
+  "Torappu.UI.AutoChess.AutoChessRoomView": {
+    "_roomIdText": "identity"
+  },
+  "Torappu.UI.AutoChess.AutoChessSettleGamePersonalView": {
+    "_txtPlayerName": "identity"
+  },
+  "Torappu.UI.AutoChess.AutoChessShopCharChessCardView": {
+    "_txtCharName": "operator-autochess"
+  },
+  "Torappu.UI.AutoChess.AutoChessShopQuickAssistItemView": {
+    "_txtFriendAlias": "identity",
+    "_txtFriendCode": "identity",
+    "_txtFriendNickName": "identity"
+  },
+  "Torappu.UI.AutoChess.AutoChessStageInfoBondItemView": {
+    "_textName": "bond"
+  },
+  "Torappu.UI.AutoChess.AutoChessStageInfoChessGroupView": {
+    "_textBondName": "bond"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleBroadcastPanel": {
+    "_msgLabel": "broadcast"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleObInfoPanel": {
+    "_textNickName": "identity",
+    "_textNickNumber": "identity"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleShopBondView": {
+    "_name": "bond"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleShopCardView": {
+    "_charName": "operator-autochess"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleSpPrepareTopTipView": {
+    "_mateNameText": "identity"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleUIBondCharItemView": {
+    "_charNameText": "operator-autochess"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleUIBondDetailView": {
+    "_nameText": "bond"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleUIBondItemView": {
+    "_nameText": "bond"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleUIEquipReplaceDialog": {
+    "_txtCharName": "operator-autochess"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleUIPlayerInfoBondItem": {
+    "_bondNameText": "bond"
+  },
+  "Torappu.UI.AutoChess.Battle.AutoChessBattleUIPlayerInfoDialog": {
+    "_bandNameText": "bond"
+  },
+  "Torappu.UI.AutoChess.CharSelect.AutoChessCharSelectDetailBondView": {
+    "_nameText": "bond"
+  },
+  "Torappu.UI.AutoChess.CharSelect.AutoChessCharSelectDetailPanel": {
+    "_codeName": "identity",
+    "_name": "operator-autochess"
+  },
+  "Torappu.UI.CharSelect.CharSelectAttrController": {
+    "_name": "operator-character"
+  },
+  "Torappu.UI.CharSelect.CharSelectBranchGroup": {
+    "_subProfName": "subprofession"
+  },
+  "Torappu.UI.CharSelect.CharSelectBranchView": {
+    "_multiBranchName": "subprofession",
+    "_singleBranchName": "subprofession"
+  },
+  "Torappu.UI.CharSelect.CharSelectProfessionView": {
+    "_subProfName": "subprofession"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoAttributeViewController": {
+    "_atkSpeed": "attack-speed",
+    "_reviveTime": "redeploy-speed",
+    "_textTags": "operator-tag"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoBuildingBuffUnlockNotifyView": {
+    "_buffName": "building-skill"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoBuildingBuffUpgradeNotifyView": {
+    "_buffName": "building-skill"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoDetailSubProfessionView": {
+    "_subProfName": "subprofession",
+    "_subProfDetailBasic": "operator-trait",
+    "_subProfDetailAdditive": "operator-trait"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoEvolveState": {
+    "_nameInConfirmInfo": "operator-character"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoProfileViewController": {
+    "_realName": "operator-character"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoRightProfSubProfView": {
+    "_subProfName": "subprofession"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoSpOpView": {
+    "_btnText": "mission",
+    "_noticeText": "mission"
+  },
+  "Torappu.UI.CharacterInfo.CharacterTokenDetailShowView": {
+    "_atkSpeed": "attack-speed",
+    "_reviveTime": "redeploy-speed"
+  },
+  "Torappu.UI.CharacterShow.CharacterShowBranchView": {
+    "_textSubProf": "subprofession"
+  },
+  "Torappu.UI.CharacterShow.CharacterShowV2LeftInfoView": {
+    "_name": "operator-character"
+  },
+  "Torappu.UI.ChooseChar.UIPortraitChooseCharCardView": {
+    "_textName": "operator-character"
+  },
+  "Torappu.UI.ItemRepo.ItemRepoCharFrontView": {
+    "_charName": "operator-character"
+  },
+  "Torappu.UI.Mission.DailyMissionTask": {
+    "_description": "mission"
+  },
+  "Torappu.UI.Mission.MainMissionTask": {
+    "_description": "mission",
+    "_requirementText": "mission"
+  },
+  "Torappu.UI.Mission.MissionDetailView": {
+    "_descrption": "mission"
+  },
+  "Torappu.UI.Mission.SOCharMissionRouteView": {
+    "_targetPath": "mission",
+    "_targetPath2": "mission"
+  },
+  "Torappu.UI.Mission.SoCharMissionCharInfoView": {
+    "_realName": "operator-character"
+  },
+  "Torappu.UI.Mission.SoCharMissionRightPart": {
+    "_maxHint": "mission",
+    "_typeText": "mission"
+  },
+  "Torappu.UI.Recruit.RecruitBuildConfigTagView": {
+    "_textContent": "recruit-tag"
+  },
+  "Torappu.UI.Recruit.RecruitBuildTagView": {
+    "_textContent": "recruit-tag"
+  },
+  "Torappu.UI.Recruit.RecruitCharDetailObj": {
+    "_charName": "operator-character"
+  },
+  "Torappu.UI.Recruit.RecruitSpecialCharPortItemView": {
+    "_textCharName": "operator-character"
+  },
+  "Torappu.UI.Recruit.RecruitSpecialGachaUpCharListItemView": {
+    "_textCharName": "operator-character"
+  },
+  "Torappu.UI.Recruit.RecruitUpCharDetailPortraitObj": {
+    "_charName": "operator-character"
+  },
+  "Torappu.UI.Roguelike.RoguelikeCharCommonCharView": {
+    "_charName": "operator-character"
+  },
+  "Torappu.UI.Roguelike.RoguelikeCharSelectAttrController": {
+    "_name": "operator-character"
+  },
+  "Torappu.UI.Roguelike.RoguelikeCharSelectBranchGroup": {
+    "_subProfName": "subprofession"
+  },
+  "Torappu.UI.Roguelike.RoguelikeCharSelectBranchView": {
+    "_multiBranchName": "subprofession",
+    "_singleBranchName": "subprofession"
+  },
+  "Torappu.UI.Roguelike.RoguelikeCharSelectProfessionView": {
+    "_subProfName": "subprofession"
+  },
+  "Torappu.UI.Shop.ShopDetailCharView": {
+    "_charName": "operator-character"
+  },
+  "Torappu.UI.Squad.SquadSharedCharHeadIcon": {
+    "_charName": "operator-character"
+  },
+  "Torappu.UI.TemplateCharSelect.Common.CommonCharSelectDetailPlugin": {
+    "_name": "operator-character"
+  },
+  "Torappu.UI.TemplateShop.TemplateShopCharDetailView": {
+    "_charName": "operator-character"
+  },
+  "Torappu.UI.UICharacterAttrDetailView": {
+    "_name": "operator-character"
+  },
+  "Torappu.UI.UICharacterCardPanel": {
+    "_textRealName": "operator-character"
+  },
+  "Torappu.UI.UICharacterProfessionFilterSubProfItem": {
+    "_name": "subprofession"
+  },
+  "Torappu.UI.UICharacterProfessionFilterView": {
+    "_selectedName": "subprofession"
+  },
+  "Torappu.UI.UniEquip.UniEquipLevelUpSubProfessionView": {
+    "_subProfessionTitle": "subprofession"
+  },
+  "Torappu.UI.UIRoguelikeGainItemDialog": {
+    "_textTitle": "rogue-name",
+    "_textUsage": "rogue-detail",
+    "_textDescription": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.RoguelikeShopDetailView": {
+    "_textName": "rogue-name",
+    "_textUsage": "rogue-detail",
+    "_textDesc": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.RoguelikeRewardRelicView": {
+    "_relicName": "rogue-name",
+    "_description": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.RoguelikeRewardRelicSelectView": {
+    "_description": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.Init.RoguelikeInitRelic": {
+    "_name": "rogue-name",
+    "_desc": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.RoguelikeChoiceItemView": {
+    "_itemTitleLabel": "rogue-name",
+    "_itemDescLabel": "rogue-detail",
+    "_itemHintLabel": "rogue-detail"
+  },
+  "Torappu.UI.RoguelikeTopic.Ending.RoguelikeTopicEndingRelicItem": {
+    "_name": "rogue-name",
+    "_unlockDesc": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.RL04.RL04FragmentItemCard": {
+    "_textName": "rogue-name",
+    "_textUsage": "rogue-detail",
+    "_textDesc": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.RL05.RL05SpecialShopDetailView": {
+    "_itemNameText": "rogue-name",
+    "_itemUsageText": "rogue-detail",
+    "_itemDescText": "rogue-detail"
+  },
+  "Torappu.UI.Roguelike.RL05.RL05CopperPackageDetailView": {
+    "_name": "rogue-name",
+    "_desc": "rogue-detail"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeTopicDifficultyItemView": {
+    "_textName": "rogue-ui",
+    "_textDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeTopicCurrentDifficultyBaseView": {
+    "_textName": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeTopicDifficultyOptionItemView": {
+    "_textName": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeTopicMonthTaskItemView": {
+    "_textTaskName": "rogue-ui",
+    "_textTaskDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeCommonOuterBuffBottomDescItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeCommonOuterBuffSummaryDifficultyItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeCommonOuterBuffSummaryMergeItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RoguelikeCommonOuterBuffSummaryRawTextItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL05.RL05DifficultyAdditionalDetailView": {
+    "_name": "rogue-ui",
+    "_addDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL05.RL05DifficultyItem": {
+    "_name": "rogue-ui",
+    "_subName": "rogue-ui",
+    "_lockedDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL05.RL05DifficultyRulesBuffItem": {
+    "_buffName": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL03.RL03DifficultyAdditionalDetailView": {
+    "_name": "rogue-ui",
+    "_addDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL03.RL03DifficultyItem": {
+    "_name": "rogue-ui",
+    "_subName": "rogue-ui",
+    "_lockedDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL03.RL03DifficultyRulesBuffItem": {
+    "_buffName": "rogue-ui",
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL03.Rl03OuterBuffBottomDescItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL03.Rl03OuterBuffSummaryDifficultyItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL03.Rl03OuterBuffSummaryMergeItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL03.Rl03OuterBuffSummaryRawTextItemView": {
+    "_desc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL02.RL02DifficultyAdditionalDetailView": {
+    "_name": "rogue-ui",
+    "_addDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL02.RL02DifficultyItem": {
+    "_name": "rogue-ui",
+    "_subName": "rogue-ui",
+    "_lockedDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL02.RL02OuterBuffDetailView": {
+    "_textNodeName": "rogue-ui",
+    "_textNodeDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL02.RL02OuterBuffNodeItemView": {
+    "_textNodeName": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL02.RL02OuterBuffSummaryRawTextNodeTextView": {
+    "_textDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL01.RL01DifficultyAdditionDetailView": {
+    "_name": "rogue-ui",
+    "_addDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL01.RL01DifficultyItem": {
+    "_name": "rogue-ui",
+    "_subName": "rogue-ui",
+    "_lockedDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL01.Rl01OuterBuffItemDetailView": {
+    "_buffName": "rogue-ui",
+    "_buffEffect": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL01.Rl01OuterBuffListView": {
+    "_textDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL04.RL04DifficultyAdditionalDetailView": {
+    "_name": "rogue-ui",
+    "_addDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL04.RL04DifficultyItem": {
+    "_name": "rogue-ui",
+    "_subName": "rogue-ui",
+    "_lockedDesc": "rogue-ui"
+  },
+  "Torappu.UI.RoguelikeTopic.RL04.RL04DifficultyRulesBuffItem": {
+    "_buffName": "rogue-ui"
+  },
+  "Torappu.UI.HandBook.HandBookInfoAudioView": {
+    "_infoTextField": "operator-voice"
+  },
+  "Torappu.UI.HandBook.HandBookInfoCharWordTextView": {
+    "_voiceText": "operator-voice"
+  },
+  "Torappu.UI.Shop.ShopDetailCommonView": {
+    "_itemDetail": "shop-content",
+    "_itemDetail_2": "shop-content"
+  },
+  "Torappu.UI.Shop.ShopDetailItemView": {
+    "_itemName": "shop-content"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoTalentContentItem": {
+    "_textContent": "operator-trait"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoRightProfTalentView": {
+    "_textContent": "operator-trait"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoRightTalentView": {
+    "_textContent": "operator-trait"
+  },
+  "Torappu.UI.Recruit.RecruitAvailDetailObj": {
+    "_availChar": "gacha-operator-list"
+  },
+  "Torappu.UI.Recruit.RecruitTextDetailView": {
+    "_showText": "gacha-rule"
+  },
+  "Torappu.UI.Medal.MedalGroupListItem": {
+    "_groupName": "medal-display",
+    "_groupDesc": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalListAbleToGetItemView": {
+    "_name": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalListAlreadyGetItemDetailView": {
+    "_getMethodText": "medal-display",
+    "_name": "medal-display",
+    "_description": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalListAlreadyGetItemView": {
+    "_name": "medal-display",
+    "_description": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalListNoGetItemDetailView": {
+    "_name": "medal-display",
+    "_getDesc": "medal-display",
+    "_desc": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalListNotGetItemView": {
+    "_name": "medal-display",
+    "_getDesc": "medal-display",
+    "_textDesc": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalBarListItem": {
+    "_medalName": "medal-display",
+    "_medalName2": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalDisplayCommonView": {
+    "_medalGroupName": "medal-display",
+    "_medalDescription": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalCommonItemAbleToGetView": {
+    "_medalName": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalCommonItemAlreadyGetView": {
+    "_medalName": "medal-display"
+  },
+  "Torappu.UI.Medal.MedalCommonItemNotGetView": {
+    "_medalName": "medal-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryAvatarBottomDetailView": {
+    "_textTitle": "gallery-display",
+    "_textDesc": "gallery-display",
+    "_textDescLock": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryHomeBackgroundBottomDetailView": {
+    "_textTitle": "gallery-display",
+    "_textUnlockConditions": "gallery-display",
+    "_textUnlockDesc": "gallery-display",
+    "_textMusicName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryHomeThemeBottomDetailView": {
+    "_textTitle": "gallery-display",
+    "_textUnlockConditions": "gallery-display",
+    "_textUnlockDesc": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryNameCardBottomDetailView": {
+    "_textTitle": "gallery-display",
+    "_textUnlockConditions": "gallery-display",
+    "_textUnlockDesc": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectDetailMissionItemView": {
+    "_txtDesc": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectDetailView": {
+    "_typeName": "gallery-display",
+    "_setName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectDisplayView": {
+    "_txtCurFilterTypeName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectSetSingleView": {
+    "_typeName": "gallery-display",
+    "_setName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryDisplayTypeFilterItemView": {
+    "_txtSetNameSelect": "gallery-display",
+    "_txtSetNameUnselect": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectAvatarView": {
+    "_itemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectCharSkinView": {
+    "_itemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectHomeBgView": {
+    "_itemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectHomeThemeView": {
+    "_itemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryCollectNcSkinView": {
+    "_itemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryListModeHomeBackgroundItemView": {
+    "_textItemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryListModeHomeThemeItemView": {
+    "_textItemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryListModeNameCardSkinItemView": {
+    "_textItemName": "gallery-display"
+  },
+  "Torappu.UI.ArtGallery.ArtGalleryListModeGridItemView": {
+    "_textTitle": "gallery-display"
+  },
+  "Torappu.UI.CharacterInfo.CharacterInfoRightProfAttributeView": {
+    "_attributeText": "operator-trait"
+  },
+  "Torappu.UI.ActArchive.ArchiveAchievementItemView": {
+    "_textNameCompleted": "sandbox-display",
+    "_textDescCompleted": "sandbox-display",
+    "_textNameUncompleted": "sandbox-display",
+    "_textDescUncompleted": "sandbox-display"
+  },
+  "Torappu.UI.SandboxPerm.SandboxV3.SandboxV3BasementDetailView": {
+    "_txtLevel": "sandbox-display",
+    "_txtDesc": "sandbox-display",
+    "_txtScore": "sandbox-display"
+  },
+  "Torappu.UI.SandboxPerm.SandboxV3.SandboxV3BasementUpgradeView": {
+    "_txtCurLevel": "sandbox-display",
+    "_txtNextLevel": "sandbox-display",
+    "_txtCondition": "sandbox-display"
+  },
+  "Torappu.UI.SandboxPerm.SandboxV3.SandboxV3BasementUpgradePreviewTipView": {
+    "_txtTip": "sandbox-display"
+  }
+}
