@@ -11,13 +11,15 @@
 從本專案 [Releases](https://github.com/yameroooo1111/Arknights-JP-ZH-Refined/releases) 下載 `Arknights-JP-ZH-Refined-v2.1.1-win-x64.zip`，完整解壓後執行 `ArknightsRefined.exe`。
 
 1. 選擇日服安裝目錄中的 `Arknights.exe`，區服選擇 `JP`。
-2. 選擇隨包的「Refined 日服中文」詞庫。
+2. 點擊導入詞庫旁的刷新，選擇隨包的「Refined 日服中文」詞庫。
 3. 正常退出遊戲，按「安裝 / 修復並啟動」。程式會先校驗檔案並備份衝突檔案。
 4. 安裝完成後，原本的遊戲啟動方式仍可使用。遊戲更新覆蓋外掛時，可重新執行安裝 / 修復。
 
 Windows 10/11 64 位元；需要已下載完整資源的日服 PC 客戶端。一般安裝不需要另裝 Python、Conda 或申請翻譯 API Key。翻譯查詢在本機完成；初次啟動的框架相依元件可能仍需下載。
 
 請保留整個解壓資料夾，不能只拿走 EXE。第一次產生執行環境可能需要一些時間。需要還原時，正常退出遊戲後使用「卸載漢化」。
+
+注意，新版詞庫需搭配新版啟動器做使用。
 
 ## 為什麼建立這個版本
 
